@@ -1,6 +1,6 @@
 ## Olá Meu Nome é Davi! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&hide_progress=true&theme=radical)
+![Gaveta-cmd's Stats](https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
