@@ -1,6 +1,5 @@
 ## Olá Meu Nome é Davi! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gavete-cmd&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&hide_progress=true&theme=radical)
 
 <div style="display: inline_block"><br>
