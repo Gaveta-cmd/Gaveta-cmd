@@ -1,7 +1,6 @@
 ## Olá Meu Nome é Davi! 👋
 
 ![Gaveta-cmd's Stats](https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Gaveta-cmd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaveta-cmd&theme=tokyonight&hide_border=false)
 ![Gaveta-cmd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <div style="display: inline_block"><br>
