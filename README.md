@@ -1,7 +1,5 @@
 ## Olá, meu nome é Davi! 👋
 
-<img align="right" alt="Coding" height="250" width="350" src="https://i.pinimg.com/originals/f3/d0/19/f3d019284cfaaf4d093941ecb0a3ea40.gif">
-
 ![Gaveta-cmd's Stats](https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![Gaveta-cmd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
