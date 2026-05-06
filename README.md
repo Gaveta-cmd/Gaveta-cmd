@@ -30,12 +30,7 @@ Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e 
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaveta-cmd&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&theme=tokyonight&layout=compact" />
 </p>
 
 ---
