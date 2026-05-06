@@ -25,8 +25,10 @@ Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e 
 
 ### 📊 Estatísticas do GitHub
 
-![Gaveta-cmd's Stats](https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Gaveta-cmd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&theme=tokyonight&layout=compact" />
+</div>
 
 ---
 
