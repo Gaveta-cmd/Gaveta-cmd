@@ -17,25 +17,33 @@ Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e 
 </div>
 
 **Segurança & Cloud**
-* **Cloud Platforms:** AWS (Estudos iniciais), Salesforce Cloud.
-* **Security:** Cloud Security Fundamentals, IAM, Proteção de Ambientes Escaláveis.
-* **Tools:** Git, GitHub, Linux (Ubuntu/Kali).
+* ☁️ **Cloud Platforms:** AWS (Noções), Salesforce Cloud.
+* 🔒 **Security:** Cloud Security Fundamentals, IAM, Proteção de Ambientes Escaláveis.
+* 🔧 **Ferramentas:** Linux (Ubuntu/Kali), Docker, Git & GitHub.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaveta-cmd&theme=tokyonight&area=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaveta-cmd&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaveta-cmd&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaveta-cmd&theme=tokyonight&layout=compact" />
-</div>
+</p>
 
 ---
 
 ### 🌟 Projetos em Destaque
 
-* **[ZenFinance](https://github.com/Gaveta-cmd/ZenFinance):** Aplicação web de gestão financeira pessoal desenvolvida com Next.js, focada em organização de gastos e metas de investimento (50/30/20).
-* **Infra & Labs:** Repositórios focados em scripts de automação e laboratórios de segurança cibernética.
+* **[ZenFinance](https://github.com/Gaveta-cmd/ZenFinance):** Plataforma web de gestão financeira pessoal (Next.js) focada na regra 50/30/20 e acompanhamento de aportes mensais.
+* **Infra & Security Labs:** Repositórios com scripts de automação e laboratórios focados em infraestrutura segura.
 
 ---
 
