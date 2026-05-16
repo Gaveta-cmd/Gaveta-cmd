@@ -28,7 +28,13 @@ Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaveta-cmd&theme=tokyonight&area=true" />
 </p>
-
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=adrianzx01&rank_icon=github&show_icons=true&theme=gotham&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=adrianzx01&layout=compact&theme=gotham&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrianzx01&theme=gotham"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrianzx01&theme=gotham"/>
+  <img height="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=gotham" />
+</div>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaveta-cmd&theme=tokyonight" />
 </p>
