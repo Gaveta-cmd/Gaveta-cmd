@@ -1,5 +1,4 @@
 ## Olá, eu sou o Davi! 👋
-
 ### 🛡️ Estudante de Ciência da Computação | Cloud Security & Infraestrutura
 
 Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e escaláveis. Atualmente, foco meus estudos em **Cloud Security**, explorando proteção de dados, gestão de identidade (IAM) e automação de processos em nuvem.
@@ -26,11 +25,11 @@ Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e 
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=adrianzx01&rank_icon=github&show_icons=true&theme=gotham&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=adrianzx01&layout=compact&theme=gotham&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrianzx01&theme=gotham"/>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrianzx01&theme=gotham"/>
-  <img height="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianzx01&theme=gotham" />
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Gaveta-cmd&rank_icon=github&show_icons=true&theme=gotham&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Gaveta-cmd&layout=compact&theme=gotham&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaveta-cmd&theme=gotham"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaveta-cmd&theme=gotham"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaveta-cmd&theme=gotham" />
 </div>
 
 ---
@@ -53,6 +52,9 @@ Sou apaixonado por transformar infraestruturas complexas em ambientes seguros e 
   </a>
   <a href="https://www.instagram.com/davi_vs_5k/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gaveta-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
