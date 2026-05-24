@@ -37,7 +37,6 @@ Desenvolvedor focado em **automação de processos** e **inteligência artificia
 <div>
   <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Brevo-00897B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
@@ -64,15 +63,15 @@ Desenvolvedor focado em **automação de processos** e **inteligência artificia
 
 ### 🌟 Projetos em Destaque
 
-* **[Email Marketing Automação](https://github.com/Gaveta-cmd/email-marketing-automacao):** API REST que integra Brevo, Make e ClickUp para automação completa de campanhas de e-mail. [→ Deploy](https://email-marketing-automacao.vercel.app)
+* **[Captação de Leads com IA](https://github.com/Gaveta-cmd/captacao-leads-ia):** Sistema de captação de leads com IA para qualificação e segmentação automática. Node.js, OpenRouter, ClickUp, Vercel. [→ Deploy](https://captacao-leads-ia.vercel.app)
 
-* **[Captação de Leads com IA](https://github.com/Gaveta-cmd/captacao-leads-ia):** Sistema de captação e qualificação automática de leads com inteligência artificial. [→ Deploy](https://captacao-leads-ia.vercel.app)
+* **[Email Marketing Automação](https://github.com/Gaveta-cmd/email-marketing-automacao):** API REST para automação de email marketing integrando Brevo, Make e ClickUp. [→ Deploy](https://email-marketing-automacao.vercel.app)
 
-* **[Triagem Jurídica Previdenciária](https://github.com/Gaveta-cmd/script-python-triagem-previdenciaria):** Script Python com IA via OpenRouter para triagem automatizada de casos previdenciários.
+* **[Triagem Jurídica Previdenciária](https://github.com/Gaveta-cmd/script-python-triagem-previdenciaria):** Script Python com IA via OpenRouter/Llama para triagem automatizada de casos previdenciários.
 
-* **[Triagem Make (Previdenciária)](https://github.com/Gaveta-cmd/triagem-make-previdenciaria):** Fluxo automatizado no Make para triagem de leads jurídicos com IA.
+* **[Triagem Make (Previdenciária)](https://github.com/Gaveta-cmd/triagem-make-previdenciaria):** Fluxo automatizado no Make para triagem de leads previdenciários com IA.
 
-* **[ZenFinance](https://github.com/Gaveta-cmd/projeto-financas-dark):** Plataforma web de gestão financeira pessoal com foco na regra 50/30/20.
+* **[Motivador Automático](https://github.com/Gaveta-cmd/motivador-autom-tico):** Script Python de envio automático de emails motivacionais diários.
 
 ---
 
