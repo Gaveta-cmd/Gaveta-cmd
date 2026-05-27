@@ -3,8 +3,6 @@
 
 Desenvolvedor focado em **automação de processos** e **inteligência artificial aplicada**. Crio APIs, integrações e fluxos inteligentes que conectam sistemas, eliminam tarefas manuais e escalam operações. Atuo com ferramentas **no-code/low-code** e desenvolvimento back-end para entregar soluções completas.
 
-📍 Brasil &nbsp;|&nbsp; 🟢 Disponibilidade: Imediata &nbsp;|&nbsp; ✉️ dabrss06@gmail.com
-
 ---
 
 ### 🛠️ Automação & No-Code
